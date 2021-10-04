@@ -21,7 +21,7 @@ To run this project first you need to setup your enviroment for nodejs. After th
 
 #### Testing
 
-Some routes of api are protected so you will need to login/register before using them. For testing the api you can use [Postman](https://www.postman.com/).
+This api is not hosted on live server for now. Some routes of api are protected so you will need to login/register before using them. <br/>For testing the api you can use [Postman](https://www.postman.com/).
 
 ### Built With
 This application is built with the following:
